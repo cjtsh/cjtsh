@@ -2,8 +2,6 @@
   <img src="./assets/banner.svg" alt="Welcome to CJT’s Digital Lab" width="100%" />
 </p>
 
-# Welcome to CJT’s Digital Lab 👋
-
 > Sysadmin by necessity, developer by curiosity, hacker by hobby (and occasional bad ideas).
 
 I build practical tools that solve real problems: AI workflows, local LLM tooling, VPN/network automation, and whatever else seems useful at 2am.
