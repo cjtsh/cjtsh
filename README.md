@@ -1,4 +1,8 @@
-# Hey, I’m Chris Terry 👋
+<p align="center">
+  <img src="./assets/banner.svg" alt="Welcome to CJT’s Digital Lab" width="100%" />
+</p>
+
+# Hi, I’m Chris Terry 👋
 
 > Sysadmin by necessity, developer by curiosity, hacker by hobby (and occasional bad ideas).
 
@@ -11,7 +15,7 @@ I build practical tools that solve real problems: AI workflows, local LLM toolin
 - 🛠️ **Admin + Dev hybrid** — I like keeping things running *and* making them better.
 - 🤖 **AI tinkering** — local LLMs, coding agents, plugins, and usable control surfaces.
 - 🔐 **Infra + networking** — especially WireGuard and automation-first operations.
-- ₿ **Crypto-curious** — following the space and building with decentralization in mind.
+- ₿ **Bitcoin Maxi** — I believe in Bitcoin, sovereignty, and long-term signal over short-term noise.
 
 ---
 

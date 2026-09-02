@@ -1,0 +1,42 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">CJT Digital Lab Banner</title>
+  <desc id="desc">Dark gradient banner with CJT Digital Lab title and subtitle about AI, infra and Bitcoin.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1F2937"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 90) rotate(18) scale(320 160)">
+      <stop stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 230) rotate(-12) scale(360 180)">
+      <stop stop-color="#F59E0B" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94A3B8" stroke-opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="18" fill="url(#grid)"/>
+  <rect width="1280" height="320" rx="18" fill="url(#glow1)"/>
+  <rect width="1280" height="320" rx="18" fill="url(#glow2)"/>
+
+  <g opacity="0.85">
+    <circle cx="1120" cy="74" r="22" fill="#F59E0B"/>
+    <text x="1120" y="81" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#111827">₿</text>
+  </g>
+
+  <text x="72" y="130" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="800" fill="#E5E7EB">
+    Welcome to CJT’s Digital Lab
+  </text>
+  <text x="72" y="176" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="500" fill="#93C5FD">
+    AI • Infra • Automation • Bitcoin
+  </text>
+  <text x="72" y="222" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="400" fill="#CBD5E1">
+    Building useful tools, running reliable systems, and occasionally shipping chaos.
+  </text>
+</svg>
