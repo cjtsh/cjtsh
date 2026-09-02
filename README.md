@@ -2,7 +2,7 @@
   <img src="./assets/banner.svg" alt="Welcome to CJT’s Digital Lab" width="100%" />
 </p>
 
-# Hi, I’m Chris Terry 👋
+# Welcome to CJT’s Digital Lab 👋
 
 > Sysadmin by necessity, developer by curiosity, hacker by hobby (and occasional bad ideas).
 
