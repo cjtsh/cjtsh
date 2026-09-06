@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Welcome to CJT’s Digital Lab" width="100%" />
+  <img src="./assets/banner.svg" alt="Chris Terry — Independent Builder" width="100%" />
 </p>
 
-> Sysadmin by necessity, developer by curiosity, hacker by hobby (and occasional bad ideas).
+> Independent builder and systems thinker working at the intersection of AI, infrastructure, and automation.
 
-I build practical tools that solve real problems: AI workflows, local LLM tooling, VPN/network automation, and whatever else seems useful at 2am.
+I build and operate practical systems that solve real problems—from local AI workflows and coding-agent tools to network automation and privacy-conscious infrastructure.
 
 ---
 
 ## What I’m About
 
-- 🛠️ **Admin + Dev hybrid** — I like keeping things running *and* making them better.
-- 🤖 **AI tinkering** — local LLMs, coding agents, plugins, and usable control surfaces.
-- 🔐 **Infra + networking** — especially WireGuard and automation-first operations.
-- ₿ **Bitcoin Maxi** — I believe in Bitcoin, sovereignty, and long-term signal over short-term noise.
+- 🛠️ **Build and operate** — taking ideas through architecture, implementation, deployment, and iteration.
+- 🤖 **AI-assisted systems** — local models, coding agents, plugins, and useful control surfaces.
+- 🔐 **Infrastructure and automation** — reliable operations, networking, and repeatable workflows.
+- ₿ **Bitcoin and privacy** — building with an interest in sovereignty, resilience, and long-term signal.
 
 ---
 
@@ -38,11 +38,15 @@ A few examples from my repos:
 
 ---
 
-## Current Vibes
+## Current Work
 
-- Turning “it works on my machine” into “it works for everyone.”
-- Making local AI stacks less painful and more powerful.
-- Shipping useful things over perfect things.
+- Turning “it works on my machine” into systems that can be deployed, operated, and improved.
+- Making local AI stacks and coding-agent workflows more useful in practice.
+- Learning by building real projects and documenting what holds up.
+
+The work sits across a few connected spaces: AI-assisted software, infrastructure, automation, networking, and Bitcoin-related systems. The common thread is practical implementation—building something useful, running it, and learning from the results.
+
+Bitseeker is the workshop behind this work. The projects are the proof.
 
 ---
 
@@ -52,6 +56,4 @@ A few examples from my repos:
 
 ---
 
-### If you’re here for polished enterprise formality…
-You’re in the wrong profile.  
-If you’re here for practical tools, experiments, and occasional chaos engineering-by-accident, welcome.
+If you’re interested in practical systems, deployed work, or a thoughtful approach to building with modern tools, you’re welcome to get in touch.
