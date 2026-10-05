@@ -21,6 +21,9 @@ I build and operate practical systems that solve real problems—from local AI w
 
 A few examples from my repos:
 
+- **[Bitcoin Easy Signer](https://github.com/cjtsh/bitcoin-easy-multisig-signer)**  
+  Open-source desktop software that helps a trusted person make a payment from an existing Bitcoin multisig wallet. Maintained and distributed by Bitseeker LLC.
+
 - **[mac-mlx-control-center](https://github.com/cjtsh/mac-mlx-control-center)**  
   1-click control center for local MLX LLM workflows on Apple Silicon.
 
